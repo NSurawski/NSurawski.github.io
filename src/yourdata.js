@@ -177,7 +177,7 @@ export default {
     { img: githubIcon, url: "https:github.com/NSurawski" },
     {
       img: codepenIcon,
-      url: "https://www.codepen.com/",
+      url: "https://https://www.linkedin.com/in/nicole-surawski/",
     },
     {
       img: dribbbleIcon,
