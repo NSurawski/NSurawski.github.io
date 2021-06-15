@@ -4,13 +4,13 @@ import Fade from "react-reveal/Fade"
 
 import data from "../yourdata"
 
-const Work = () => {
+const Creative = () => {
   return (
-    <div className="section" id="work">
+    <div className="section" id="creative">
       <div className="container">
-        <div className="work-wrapper">
+        <div className="creative-wrapper">
           <Fade bottom>
-            <h1>Projects</h1>
+            <h1>Creative</h1>
           </Fade>
 
           <div className="grid">
