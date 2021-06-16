@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I am a New York based Full Stack Software Engineer and Certified ScrumMaster with a passion for agile, design and creating technology that makes peoples lives better.",
+    "I am a New York based Full Stack Software Engineer, Certified ScrumMaster, and creative with a passion for agile, design and creating technology that makes peoples lives better.",
 
   //Contact Email
   contactEmail: "nicolesurawski@gmail.com",
@@ -118,7 +118,7 @@ export default {
     "My years of working in leadership roles in a team-driven environment has primed me to be successful in my coaching skills and servant leadership. My professional training as a Software Engineer has given me the technical skills to not only develop full stack web applications using leading industry technologies but also successfully communicate with developers and non-technical stakeholders alike.",
   aboutParaThree:
     "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
-  aboutImage:
+  imageSrc:
     "https://imgur.com/MmKYJRc",
 
   //   End About Section ---------------------
@@ -131,32 +131,32 @@ export default {
     {
       img: htmlIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "HTML5",
     },
     {
       img: cssIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "CSS3, Bootstrap & Sass",
     },
     {
       img: jsIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "JavaScript & jQuery",
     },
     {
       img: reactIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    },
-    {
-      img: designIcon,
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "ReactJS",
     },
     {
       img: codeIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Python, Express.js, Node.js, RESTful APIs, Mongoose, MongoDB, Django, SQL, PostgreSQL",
+    },
+    {
+      img: designIcon,
+      para:
+        "UI/UX engineering and design principles, information architecture, prototyping and wireframing",
     },
   ],
 
