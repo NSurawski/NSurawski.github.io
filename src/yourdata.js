@@ -164,14 +164,14 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Heading",
+  promotionHeading: "Creative",
   promotionPara:
     "haven't decided what goes here yet!",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Let's create magic together",
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https:github.com/NSurawski" },

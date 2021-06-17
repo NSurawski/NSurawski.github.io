@@ -32,4 +32,4 @@ const Creative = () => {
   )
 }
 
-export default Work
+export default Creative
