@@ -1,5 +1,7 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
+// import { bounce } from 'react-animations'
+// import styled, { keyframes } from 'styled-components'
 import data from "../yourdata"
 
 const Header = () => {

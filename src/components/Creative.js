@@ -1,31 +1,18 @@
 import React from "react"
-import Card from "./atoms/Card"
 import Fade from "react-reveal/Fade"
-
 import data from "../yourdata"
+
+// import ref29salad  from "../../images/ref29salad.jpg"
 
 const Creative = () => {
   return (
-    <div className="section" id="creative">
+    <div className="section">
       <div className="container">
-        <div className="creative-wrapper">
-          <Fade bottom>
-            <h1>Creative</h1>
+        <div className="creative-container">
+          <Fade bottom cascade>
+            <h1>{data.creativeHeading}</h1>
           </Fade>
-
-          <div className="grid">
-            <Fade bottom cascade>
-              {data.projects.map((project, index) => (
-              //   <Card
-              //     key={index}
-              //     heading={project.title}
-              //     paragraph={project.para}
-              //     imgUrl={project.imageSrc}
-              //     projectLink={project.url}
-              //   ></Card>
-              // ))}
-            </Fade>
-          </div>
+          <p>{data.creativePara}</p>
         </div>
       </div>
     </div>

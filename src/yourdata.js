@@ -20,7 +20,7 @@ export default {
   name: "Nicole",
   headerTagline: [
     //Line 1 For Header
-    "Software Engineer",
+    "Software Engineer,",
     //Line 2 For Header
     "Certified ScrumMaster,",
     //Line 3 For Header
@@ -28,7 +28,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I am a New York based Full Stack Software Engineer, Certified ScrumMaster, and creative with a passion for agile, user experience and creating technology that makes peoples lives better.",
+    "I am a New York based Full Stack Software Engineer, Certified ScrumMaster, and Creative with a passion for agile, user experience and creating technology that makes peoples lives better.",
 
   //Contact Email
   contactEmail: "nicolesurawski@gmail.com",
@@ -38,65 +38,65 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "Listy", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A full stack application for productivity where users can create lists and check off list items as they are completed.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://imgur.com/IMpVmBM",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://nsurawski.github.io/list-app-client/#/",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Sour Grapes", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A web app for wine lovers! Review and keep track of wines you've tried and never forget tasting notes again!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://nsurawski.github.io/Sour-Grapes-Client/#/",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "Code-laborate", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Team Project: A forum that allows software engineering students share their code and solve problems as a team!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://super-props.github.io/code-laborate-front-end/#/",
     },
     {
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      title: "Shoe Library", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "My very first full stack web app: A library where users can log their shoe collection", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Five", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "Project Six", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
+      url: "https://nsurawski.github.io/shoe-database-client/",
+    }
+    // {
+    //   title: "Project Five", //Project Title - Add Your Project Title Here
+    //   para:
+    //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc:
+    //     "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+    //   //Project URL - Add Your Project Url Here
+    //   url: "http://chetanverma.com/",
+    // },
+    // {
+    //   title: "Project Six", //Project Title - Add Your Project Title Here
+    //   para:
+    //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc:
+    //     "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+    //   //Project URL - Add Your Project Url Here
+    //   url: "http://chetanverma.com/",
+    // },
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End
@@ -119,7 +119,7 @@ export default {
   aboutParaThree:
     "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
   imageSrc:
-    "https://imgur.com/MmKYJRc",
+    "../images/aboutImage.png",
 
   //   End About Section ---------------------
 
@@ -162,16 +162,16 @@ export default {
 
   // End Skills Section --------------------------
 
-  //   Promotion Section --------------------------
+  //   Creative Section --------------------------
 
-  promotionHeading: "Creative",
-  promotionPara:
-    "haven't decided what goes here yet!",
+  // creativeHeading: "Creative",
+  // creativePara:
+  //   "haven't decided what goes here yet!",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create magic together",
+  contactSubHeading: "Let's create magic together!",
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https:github.com/NSurawski" },
