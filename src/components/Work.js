@@ -4,6 +4,10 @@ import Fade from "react-reveal/Fade"
 
 import data from "../yourdata"
 
+// image imports
+import listy from "../images/listy.png"
+import sourGrapes from "../images/sourGrapes.png"
+
 const Work = () => {
   return (
     <div className="section" id="work">

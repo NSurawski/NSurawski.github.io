@@ -12,6 +12,10 @@ import codepenIcon from "./images/codepen.svg"
 import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 
+// Project Images
+import listy from "./images/listy.png"
+import sourGrapes from "./images/sourGrapes.png"
+
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
@@ -43,7 +47,7 @@ export default {
         "A full stack application for productivity where users can create lists and check off list items as they are completed.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://imgur.com/IMpVmBM",
+        "./images/listy.png",
       //Project URL - Add Your Project Url Here
       url: "https://nsurawski.github.io/list-app-client/#/",
     },
@@ -53,7 +57,7 @@ export default {
         "A web app for wine lovers! Review and keep track of wines you've tried and never forget tasting notes again!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "./images/sourGrapes.png",
       //Project URL - Add Your Project Url Here
       url: "https://nsurawski.github.io/Sour-Grapes-Client/#/",
     },
