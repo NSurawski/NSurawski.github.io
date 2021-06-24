@@ -125,7 +125,7 @@ export default {
   aboutParaThree:
     "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
   imageSrc:
-    "../images/aboutImage.png",
+    "../images/aboutImage.jpg",
 
   //   End About Section ---------------------
 
