@@ -15,6 +15,8 @@ import instagramIcon from "./images/instagram.svg"
 // Project Images
 import listy from "./images/listy.png"
 import sourGrapes from "./images/sourGrapes.png"
+import codeLaborate from "./images/codeLaborate.png"
+import shoeLibrary from "./images/shoeLibrary.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -67,7 +69,7 @@ export default {
         "Team Project: A forum that allows software engineering students share their code and solve problems as a team!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "./images/codeLaborate.png",
       //Project URL - Add Your Project Url Here
       url: "https://super-props.github.io/code-laborate-front-end/#/",
     },
@@ -77,7 +79,7 @@ export default {
         "My very first full stack web app: A library where users can log their shoe collection", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "./images/shoeLibrary.png",
       //Project URL - Add Your Project Url Here
       url: "https://nsurawski.github.io/shoe-database-client/",
     }

@@ -14,6 +14,12 @@ const Footer = () => {
           <a className="email-link" href={`mailto:${data.contactEmail}`}>
             {data.contactEmail}
           </a>
+          <a
+            href={`https://drive.google.com/file/d/1pSdclyZ2aXGJRd3aJIWkuH9n_gyMsFFs/view?usp=sharing`}
+            className="primary-btn"
+          >
+            RESUME
+          </a>
           <div className="social-icons">
             {data.social.map((socialLink, index) => (
               <a
