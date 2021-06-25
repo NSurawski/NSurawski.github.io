@@ -5,10 +5,10 @@ import Fade from "react-reveal/Fade"
 import data from "../yourdata"
 
 // image imports
-import listy from "../images/listy.png"
-import sourGrapes from "../images/sourGrapes.png"
-import codeLaborate from "../images/codeLaborate.png"
-import shoeLibrary from "../images/shoeLibrary.png"
+// import listy from "../images/listy.png"
+// import sourGrapes from "../images/sourGrapes.png"
+// import codeLaborate from "../images/codeLaborate.png"
+// import shoeLibrary from "../images/shoeLibrary.png"
 
 const Work = () => {
   return (

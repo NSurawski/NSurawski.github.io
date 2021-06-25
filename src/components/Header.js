@@ -1,7 +1,6 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
-// import { bounce } from 'react-animations'
-// import styled, { keyframes } from 'styled-components'
+import Bounce from "react-reveal/Bounce"
 import data from "../yourdata"
 
 const Header = () => {
@@ -10,12 +9,14 @@ const Header = () => {
       <div className="container">
         <div className="header-wrapper">
           <Fade bottom>
+          <Bounce>
             <h2>
               Hi, I'm {data.name}{" "}
               <span role="img" aria-label="Emoji">
                 👋
               </span>
             </h2>
+          </Bounce>
           </Fade>
           <Fade bottom cascade>
             <div className="heading-wrapper">
