@@ -126,7 +126,7 @@ export default {
   aboutParaThree:
     "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
   imageSrc:
-    "./images/aboutImage.jpg",
+    "./images/aboutImage.png",
 
   //   End About Section ---------------------
 
@@ -170,11 +170,10 @@ export default {
   // End Skills Section --------------------------
 
   //   Creative Section --------------------------
-
-  // creativeHeading: "Creative",
-  // creativePara:
-  //   "haven't decided what goes here yet!",
-  // End Promotion Section -----------------
+  creativeHeading: "Creative",
+  creativePara:
+    "haven't decided what goes here yet!",
+  // End Creative Section -----------------
 
   //   Contact Section --------------
 

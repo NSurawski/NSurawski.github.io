@@ -2,7 +2,7 @@ import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
 
-import aboutImage from "../images/aboutImage.jpg"
+import aboutImage from "../images/aboutImage.png"
 
 const About = () => {
   return (
@@ -24,7 +24,7 @@ const About = () => {
             </p>
           </div>
           <div className="image-wrapper">
-            <img src={aboutImage} alt="about" height="515" width="386"></img>
+            <img src={aboutImage} alt="about" height="450" width="450"></img>
           </div>
         </div>
       </div>

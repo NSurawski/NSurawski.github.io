@@ -17,6 +17,7 @@ const Footer = () => {
           <a
             href={`https://drive.google.com/file/d/1pSdclyZ2aXGJRd3aJIWkuH9n_gyMsFFs/view?usp=sharing`}
             className="primary-btn"
+            id="resume"
           >
             RESUME
           </a>
@@ -33,7 +34,7 @@ const Footer = () => {
             ))}
           </div>
           <span>
-            <p class="text-muted small mb-0">Copyright &copy; Nicole Surawski 2021</p>
+             <p class="text-muted small mb-0">Copyright &copy; Nicole Surawski 2021</p>
           </span>
         </div>
       </div>
