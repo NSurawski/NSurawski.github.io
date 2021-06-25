@@ -11,6 +11,7 @@ import githubIcon from "./images/github.svg"
 import codepenIcon from "./images/codepen.svg"
 import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
+import linkedinIcon from "./images/linkedin.svg"
 
 // Project Images
 import listy from "./images/listy.png"
@@ -125,7 +126,7 @@ export default {
   aboutParaThree:
     "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
   imageSrc:
-    "../images/aboutImage.jpg",
+    "./images/aboutImage.jpg",
 
   //   End About Section ---------------------
 
@@ -181,17 +182,17 @@ export default {
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https:github.com/NSurawski" },
+    // {
+    //   img: codepenIcon,
+    //   url: "https://https://www.linkedin.com/in/nicole-surawski/",
+    // },
     {
-      img: codepenIcon,
-      url: "https://https://www.linkedin.com/in/nicole-surawski/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
+      img: linkedinIcon,
+      url: "https://www.linkedin.com/in/nicole-surawski/",
     },
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/nicole_surawski",
     },
   ],
 
