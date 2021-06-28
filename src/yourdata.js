@@ -171,8 +171,8 @@ export default {
 
   //   Creative Section --------------------------
   creativeHeading: "Creative",
-  creativePara:
-    "haven't decided what goes here yet!",
+  imageSrc:
+    "./images/ref29salad.jpg",
   // End Creative Section -----------------
 
   //   Contact Section --------------
