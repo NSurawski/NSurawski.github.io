@@ -14,10 +14,10 @@ import instagramIcon from "./images/instagram.svg"
 import linkedinIcon from "./images/linkedin.svg"
 
 // Project Images
-import listy from "./images/listy.png"
-import sourGrapes from "./images/sourGrapes.png"
-import codeLaborate from "./images/codeLaborate.png"
-import shoeLibrary from "./images/shoeLibrary.png"
+// import listy from "./images/listy.png"
+// import sourGrapes from "./images/sourGrapes.png"
+// import codeLaborate from "./images/codeLaborate.png"
+// import shoeLibrary from "./images/shoeLibrary.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -50,7 +50,7 @@ export default {
         "A full stack application for productivity where users can create lists and check off list items as they are completed.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/listy.png",
+        "https://images.unsplash.com/photo-1557683316-973673baf926?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1315&q=80",
       //Project URL - Add Your Project Url Here
       url: "https://nsurawski.github.io/list-app-client/#/",
     },
@@ -60,7 +60,7 @@ export default {
         "A web app for wine lovers! Review and keep track of wines you've tried and never forget tasting notes again!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/sourGrapes.png",
+        "https://images.unsplash.com/photo-1617957689233-207e3cd3c610?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80",
       //Project URL - Add Your Project Url Here
       url: "https://nsurawski.github.io/Sour-Grapes-Client/#/",
     },
@@ -70,7 +70,7 @@ export default {
         "Team Project: A forum that allows software engineering students share their code and solve problems as a team!", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/codeLaborate.png",
+        "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
       //Project URL - Add Your Project Url Here
       url: "https://super-props.github.io/code-laborate-front-end/#/",
     },
@@ -80,7 +80,7 @@ export default {
         "My very first full stack web app: A library where users can log their shoe collection", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "./images/shoeLibrary.png",
+        "https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
       //Project URL - Add Your Project Url Here
       url: "https://nsurawski.github.io/shoe-database-client/",
     }
