@@ -109,8 +109,8 @@ export default {
   // End Work Section -----------------------
 
   // About Secton --------------
-  aboutParaOne: "I am a New York based Full Stack Software Engineer and Certified Scrum Master with a passion for agile, design and creating technology that makes peoples lives better.",
-  aboutParaTwo: "My years of working in leadership roles in a team-driven environment has primed me to be successful in my coaching skills and servant leadership. My professional training as a Software Engineer has given me the technical skills to not only develop full stack web applications using leading industry technologies but also successfully communicate with developers and non-technical stakeholders alike.",
+  aboutParaOne: "My professional training as a Software Engineer has given me the technical skills to not only develop full stack web applications using leading industry technologies but also successfully communicate with developers and non-technical stakeholders alike.",
+  aboutParaTwo: "My years of working in leadership roles in a team-driven environment have primed me to be successful in my coaching skills and servant leadership.",
   aboutParaThree: "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
   imageSrc: "./images/aboutImage.png",
 
