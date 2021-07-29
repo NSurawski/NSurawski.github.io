@@ -11,6 +11,7 @@ import githubIcon from "./images/github.svg"
 import codepenIcon from "./images/codepen.svg"
 import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
+import linkedInIcon from "./images/linkedIn.svg"
 
 // About image
 import aboutImage from "./images/aboutImage.png"
@@ -130,17 +131,17 @@ export default {
     {
       img: cssIcon,
       para:
-        "CSS3",
+        "CSS3, Bootstrap & Sass",
     },
     {
       img: jsIcon,
       para:
-        "JavaScript",
+        "JavaScript & jQuery",
     },
     {
       img: reactIcon,
       para:
-        "React.JS",
+        "ReactJS",
     },
     {
       img: designIcon,
@@ -150,7 +151,7 @@ export default {
     {
       img: codeIcon,
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "Python, Express.js, Node.js, RESTful APIs, Mongoose & MongoDB, Django, SQL & PostgreSQL,",
     },
   ],
 
@@ -168,18 +169,20 @@ export default {
   contactSubHeading: "Let's create your next experience together",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
-    {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
+    { img: githubIcon,
+      url: "https:github.com/NSurawski" ,
     },
     {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
+      img: linkedInIcon,
+      url: "https://www.linkedin.com/in/nicole-surawski/",
     },
+    // {
+    //   img: dribbbleIcon,
+    //   url: "https://dribbble.com/chetanverma",
+    // },
     {
       img: instagramIcon,
-      url: "https://www.instagram.com/",
+      url: "https://www.instagram.com/nicole_surawski",
     },
   ],
 
