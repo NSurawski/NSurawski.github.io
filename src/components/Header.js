@@ -1,5 +1,6 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
+import Tada from "react-reveal/Tada"
 import data from "../yourdata"
 
 const Header = () => {
@@ -8,12 +9,14 @@ const Header = () => {
       <div className="container">
         <div className="header-wrapper">
           <Fade bottom>
+            <Tada>
             <h2>
               Hi, I'm {data.name}{" "}
               <span role="img" aria-label="Emoji">
                 👋
               </span>
             </h2>
+            </Tada>
           </Fade>
           <Fade bottom cascade>
             <div className="heading-wrapper">
@@ -42,11 +45,11 @@ const Header = () => {
           <Fade bottom>
             <a
               href={`mailto:${
-                data.contactEmail ? data.contactEmail : "hello@chetanverma.com"
+                data.contactEmail ? data.contactEmail : "nicolesurawski@gmail.com"
               }`}
               className="primary-btn"
             >
-              CONNECT WITH ME
+              LET'S CHAT
             </a>
           </Fade>
         </div>
