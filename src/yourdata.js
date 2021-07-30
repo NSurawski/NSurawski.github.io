@@ -8,8 +8,8 @@ import codeIcon from "./images/code.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
+// import codepenIcon from "./images/codepen.svg"
+// import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 import linkedInIcon from "./images/linkedIn.svg"
 
@@ -31,7 +31,7 @@ export default {
     "and Creative",
   ],
   //   Header Paragraph
-  headerParagraph: "I am a Full Stack Software Engineer,  a passion for agile, user exper experience and helping people realize the value tech can add to their lives",
+  headerParagraph: "I am a Full Stack Software Engineer with a passion for agile, user experience and helping people see the value technology can add to their lives.",
 
   //Contact Email
   contactEmail: "nicolesurawski@gmail.com",
@@ -108,11 +108,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    "My professional training as a Software Engineer has given me the technical skills to not only develop full stack web applications using leading industry technologies but also successfully communicate technichal topics with developers and non-technical stakeholders alike.",
   aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "From a decade of working in leadership roles in a team-driven environment I am successful in my coaching skills and servant leadership.",
   aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
   aboutImage:
     aboutImage,
 

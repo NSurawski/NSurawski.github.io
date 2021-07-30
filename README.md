@@ -1,16 +1,5 @@
-## A clean, beautiful, minimal and responsive portfolio template for Developers!
+## Nicoles React Portfolio
 
-![Web 1920 – 1](https://user-images.githubusercontent.com/16558205/101065060-b44bfc80-35ba-11eb-8ab4-1e6f140c1ec9.png)
-
-To view a live example, **[click here](https://react-portfolio-template.netlify.app/)**.
-
-
-Just change `src/yourdata.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
-
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/chetanverma16/react-portfolio-template/issues).
-
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/chetanverma16/react-portfolio-template/pulls).
 
 ## Features
 - Responsive
@@ -27,7 +16,7 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Contact
 
 
-## How To Use 
+## How To Use
 
 From your command line, clone and run react-portfolio-template:
 
@@ -53,7 +42,7 @@ $ gatsby develop
 
 name:"chetan",
 headerTagline: [
-    "Building digital",.... 
+    "Building digital",....
 ]
 
 ```
@@ -84,4 +73,3 @@ please don't hesitate to open a [pull request](https://github.com/chetanverma16/
 
 ## Thanks
 If you like this portfolio template don't forget give it a ⭐ and also share it with me [here](mailto:hello@chetanverma.com).
-
