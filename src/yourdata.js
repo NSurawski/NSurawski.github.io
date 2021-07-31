@@ -166,7 +166,7 @@ export default {
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Let's create something special together!",
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon,
