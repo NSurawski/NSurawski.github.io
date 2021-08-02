@@ -151,7 +151,7 @@ export default {
     {
       img: codeIcon,
       para:
-        "Python, Express.js, Node.js, RESTful APIs, Mongoose & MongoDB, Django, SQL & PostgreSQL,",
+        "Python, Express.js, Node.js, RESTful APIs, Mongoose & MongoDB, Django, SQL & PostgreSQL",
     },
   ],
 
