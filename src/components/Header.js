@@ -44,6 +44,14 @@ const Header = () => {
           </Fade>
           <Fade bottom>
             <a
+              href="https://drive.google.com/file/d/1Zpp4_XXW7tmu3MHUeBKbqgKR737TqFLp/view?usp=sharing"
+              className="primary-btn"
+            >
+              RESUME
+            </a>
+          </Fade>
+          <Fade bottom>
+            <a
               href={`mailto:${
                 data.contactEmail ? data.contactEmail : "nicolesurawski@gmail.com"
               }`}

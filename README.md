@@ -1,4 +1,5 @@
-## Nicoles React Portfolio
+# Nicoles React Portfolio
+My portfolio site built using ReactJS.
 
 
 ## Features
