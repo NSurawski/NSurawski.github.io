@@ -14,7 +14,7 @@ import instagramIcon from "./images/instagram.svg"
 import linkedInIcon from "./images/linkedIn.svg"
 
 // About image
-import aboutImage from "./images/aboutImage.png"
+// import aboutImage from "./images/aboutImage.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
