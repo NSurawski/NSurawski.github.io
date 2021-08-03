@@ -113,8 +113,8 @@ export default {
     "From a decade of working in leadership roles in a team-driven environment I am successful in my coaching skills and servant leadership.",
   aboutParaThree:
     "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
-  aboutImage:
-    aboutImage,
+  imageSrc:
+    "./images/aboutImage.png",
 
   //   End About Section ---------------------
 
