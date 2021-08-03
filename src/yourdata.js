@@ -14,7 +14,7 @@ import instagramIcon from "./images/instagram.svg"
 import linkedInIcon from "./images/linkedIn.svg"
 
 // About image
-// import aboutImage from "./images/aboutImage.png"
+import aboutImage from "./images/aboutImage.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -113,8 +113,8 @@ export default {
     "From a decade of working in leadership roles in a team-driven environment I am successful in my coaching skills and servant leadership.",
   aboutParaThree:
     "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
-  imageSrc:
-    "./images/aboutImage.png",
+  aboutImage:
+    aboutImage,
 
   //   End About Section ---------------------
 
