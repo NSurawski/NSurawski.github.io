@@ -1,5 +1,5 @@
 # Nicoles React Portfolio
-My portfolio site built using ReactJS.
+My portfolio site built using ReactJS showcasing my skills, recent projects and a little about me.
 
 
 ## Features
@@ -33,20 +33,6 @@ $ yarn
 
 #Start's development server
 $ gatsby develop
-```
-
-#### Personalize page content in `/src/yourdata.js` & modify it as per your need.
-
-```javascript
-/* Change this file to get your Personal Porfolio */
- // Edit Values of these variables
-
-name:"chetan",
-headerTagline: [
-    "Building digital",....
-]
-
-```
 
 ## Deployment
 When you are done with the setup, you should host your website online.
@@ -65,12 +51,3 @@ For more information, read [hosting on Netlify](https://create-react-app.dev/doc
 
 - [React](https://reactjs.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
-
-
-
-## For the Future
-If you have awesome ideas on your mind,
-please don't hesitate to open a [pull request](https://github.com/chetanverma16/react-portfolio-template/pulls).
-
-## Thanks
-If you like this portfolio template don't forget give it a ⭐ and also share it with me [here](mailto:hello@chetanverma.com).
