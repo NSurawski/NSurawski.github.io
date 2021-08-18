@@ -9,7 +9,7 @@ const Header = () => {
       <div className="container">
         <div className="header-wrapper">
           <Fade bottom>
-            <Tada duration={5000}>
+            <Tada duration={5000} forever={true}>
             <h2>
               Hi, I'm {data.name}{" "}
               <span role="img" aria-label="Emoji">
