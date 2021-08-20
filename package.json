@@ -1,7 +1,7 @@
 {
   "name": "nicoles-portfolio",
   "private": true,
-  "homepage": "https://NSurawski.github.io",
+  "homepage": "https://nsurawski.github.io",
   "description": "my portfolio built using react",
   "version": "0.1.0",
   "author": "Nicole urawski <nicolesurawski@gmail.com>",
@@ -34,8 +34,8 @@
   "license": "0BSD",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
-    "build": "gatsby build",
+    "deploy": "gh-pages -d build -b main",
+    "build": "npm run clean && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
