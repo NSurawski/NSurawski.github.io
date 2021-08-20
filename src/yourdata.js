@@ -110,7 +110,7 @@ export default {
   aboutParaOne:
     "My professional training as a Software Engineer has given me the technical skills to not only develop full stack web applications using leading industry technologies but also successfully communicate technichal topics with developers and non-technical stakeholders alike.",
   aboutParaTwo:
-    "From a decade of working in leadership roles in a team-driven environment I am successful in my coaching skills and servant leadership.",
+    "From a decade of working in sales and CRM roles, I am an expert communicator with both technical and non-technical stakeholders",
   aboutParaThree:
     "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
   aboutImage:
