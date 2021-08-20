@@ -44,7 +44,7 @@ const Header = () => {
           </Fade>
           <Fade bottom>
             <a
-              href="https://drive.google.com/file/d/1Zpp4_XXW7tmu3MHUeBKbqgKR737TqFLp/view?usp=sharing"
+              href="https://drive.google.com/file/d/1EShPo30-1LLyMvNuMAslstSR7LoRMXT3/view?usp=sharing"
               className="primary-btn"
             >
               RESUME
