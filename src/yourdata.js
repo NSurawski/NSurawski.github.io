@@ -170,7 +170,7 @@ export default {
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon,
-      url: "https:github.com/NSurawski" ,
+      url: "https://www.github.com/NSurawski" ,
     },
     {
       img: linkedInIcon,
