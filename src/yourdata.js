@@ -1,10 +1,12 @@
 // Skills Icons
-import htmlIcon from "./images/html.svg"
-import cssIcon from "./images/css.svg"
-import reactIcon from "./images/react.svg"
-import jsIcon from "./images/javascript.svg"
+// import htmlIcon from "./images/html.svg"
+// import cssIcon from "./images/css.svg"
+// import reactIcon from "./images/react.svg"
+// import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
+import featureIcon from "./images/feature.svg"
+import webDesignIcon from "./images/web-design.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -108,9 +110,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "My professional training as a Software Engineer has given me the technical skills to not only develop full stack web applications using leading industry technologies but also successfully communicate technichal topics with developers and non-technical stakeholders alike.",
+    "My professional training as a Software Engineer has given me the technical skills to develop full stack web applications using leading industry technologies.",
   aboutParaTwo:
-    "From a decade of working in sales and CRM roles, I am an expert communicator with both technical and non-technical stakeholders",
+    "From a decade of working in sales and CRM roles, I am an expert communicator with both technical and non-technical stakeholders alike and can communicate difficult technical concepts in a way people can understand.",
   aboutParaThree:
     "My creative background and e-commerce experience has given me a keen eye and sensibility for UX/UI design principles, information architecture and user experience.",
   aboutImage:
@@ -123,35 +125,45 @@ export default {
   //   Import Icons from the top and link it here
 
   skills: [
+    // {
+    //   img: htmlIcon,
+    //   para:
+    //   "HTML5",
+    // },
+    // {
+    //   img: cssIcon,
+    //   para:
+    //     "CSS3, Bootstrap & Sass",
+    // },
+    // {
+    //   img: jsIcon,
+    //   para:
+    //     "JavaScript & jQuery",
+    // },
+    // {
+    //   img: reactIcon,
+    //   para:
+    //     "ReactJS",
+    // },
     {
-      img: htmlIcon,
-      para:
-      "HTML5",
-    },
-    {
-      img: cssIcon,
-      para:
-        "CSS3, Bootstrap & Sass",
-    },
-    {
-      img: jsIcon,
-      para:
-        "JavaScript & jQuery",
-    },
-    {
-      img: reactIcon,
-      para:
-        "ReactJS",
-    },
+    img: webDesignIcon,
+    para:
+      "HTML5, CSS3, Bootstrap, Sass, JavaScript, jQuery, ReactJS",
+  },
     {
       img: designIcon,
       para:
-        "User Experience & Information Arctitecture",
+        "UX/UI Engineering, Information Arctitecture, Wireframing & Prototyping, & Responsive Design ",
     },
     {
       img: codeIcon,
       para:
-        "Python, Express.js, Node.js, RESTful APIs, Mongoose & MongoDB, AJAX, axios, Django, SQL & PostgreSQL",
+        "GitHub, Bash/CLI, Debugging & Postman",
+    },
+    {
+      img: featureIcon,
+      para:
+        "Python, Express.js, Node.js, RESTful APIs, Mongoose & MongoDB, AJAX, Axios, Django & SQL",
     },
   ],
 
