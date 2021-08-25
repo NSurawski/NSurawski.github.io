@@ -2,19 +2,19 @@ import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
 
-const Promotion = () => {
+const Creative = () => {
   return (
     <div className="section">
       <div className="container">
-        <div className="promotion-container">
+        <div className="creative-container">
           <Fade bottom cascade>
-            <h1>{data.promotionHeading}</h1>
+            <h1>{data.creativeHeading}</h1>
           </Fade>
-          <p>{data.promotionPara}</p>
+          <p>{data.creativeImage}</p>
         </div>
       </div>
     </div>
   )
 }
 
-export default Promotion
+export default Creative
